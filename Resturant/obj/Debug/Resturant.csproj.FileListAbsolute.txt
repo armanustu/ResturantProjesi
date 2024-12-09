@@ -1,0 +1,92 @@
+c:\users\anil\documents\visual studio 2013\Projects\Resturant\Resturant\bin\Debug\Resturant.exe.config
+c:\users\anil\documents\visual studio 2013\Projects\Resturant\Resturant\bin\Debug\Resturant.exe
+c:\users\anil\documents\visual studio 2013\Projects\Resturant\Resturant\bin\Debug\Resturant.pdb
+c:\users\anil\documents\visual studio 2013\Projects\Resturant\Resturant\obj\Debug\Resturant.csprojResolveAssemblyReference.cache
+c:\users\anil\documents\visual studio 2013\Projects\Resturant\Resturant\obj\Debug\Resturant.Form1.resources
+c:\users\anil\documents\visual studio 2013\Projects\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+c:\users\anil\documents\visual studio 2013\Projects\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.Cache
+c:\users\anil\documents\visual studio 2013\Projects\Resturant\Resturant\obj\Debug\Resturant.exe
+c:\users\anil\documents\visual studio 2013\Projects\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\ANIL\Desktop\C# PROJELERİ\Resturant\Resturant\bin\Debug\Resturant.exe.config
+C:\Users\ANIL\Desktop\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.exe
+C:\Users\ANIL\Desktop\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\ANIL\Desktop\C# PROJELERİ\Resturant\Resturant\bin\Debug\Resturant.exe
+C:\Users\ANIL\Desktop\C# PROJELERİ\Resturant\Resturant\bin\Debug\Resturant.pdb
+C:\Users\ANIL\Desktop\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.csprojResolveAssemblyReference.cache
+C:\Users\ANIL\Desktop\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.Form1.resources
+C:\Users\ANIL\Desktop\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+C:\Users\ANIL\Desktop\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.Cache
+E:\CV ÇALIŞMASI1\C# PROJELERİ\Resturant\Resturant\bin\Debug\Resturant.exe.config
+E:\CV ÇALIŞMASI1\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.exe
+E:\CV ÇALIŞMASI1\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.pdb
+E:\CV ÇALIŞMASI1\C# PROJELERİ\Resturant\Resturant\bin\Debug\Resturant.exe
+E:\CV ÇALIŞMASI1\C# PROJELERİ\Resturant\Resturant\bin\Debug\Resturant.pdb
+E:\CV ÇALIŞMASI1\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.csprojResolveAssemblyReference.cache
+E:\CV ÇALIŞMASI1\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.Form1.resources
+E:\CV ÇALIŞMASI1\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+E:\CV ÇALIŞMASI1\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.Cache
+D:\CV ÇALIŞMASI1\C# PROJELERİ\Resturant\Resturant\bin\Debug\Resturant.exe.config
+D:\CV ÇALIŞMASI1\C# PROJELERİ\Resturant\Resturant\bin\Debug\Resturant.exe
+D:\CV ÇALIŞMASI1\C# PROJELERİ\Resturant\Resturant\bin\Debug\Resturant.pdb
+D:\CV ÇALIŞMASI1\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.csprojAssemblyReference.cache
+D:\CV ÇALIŞMASI1\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.Form1.resources
+D:\CV ÇALIŞMASI1\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+D:\CV ÇALIŞMASI1\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.cache
+D:\CV ÇALIŞMASI1\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.csproj.CoreCompileInputs.cache
+D:\CV ÇALIŞMASI1\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.exe
+D:\CV ÇALIŞMASI1\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\Toshiba\Desktop\PROJELERDE KULLANILACAK NOTLAR\C# PROJELERİ\Resturant\Resturant\bin\Debug\Resturant.exe.config
+C:\Users\Toshiba\Desktop\PROJELERDE KULLANILACAK NOTLAR\C# PROJELERİ\Resturant\Resturant\bin\Debug\Resturant.exe
+C:\Users\Toshiba\Desktop\PROJELERDE KULLANILACAK NOTLAR\C# PROJELERİ\Resturant\Resturant\bin\Debug\Resturant.pdb
+C:\Users\Toshiba\Desktop\PROJELERDE KULLANILACAK NOTLAR\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.csprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\PROJELERDE KULLANILACAK NOTLAR\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.Form1.resources
+C:\Users\Toshiba\Desktop\PROJELERDE KULLANILACAK NOTLAR\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+C:\Users\Toshiba\Desktop\PROJELERDE KULLANILACAK NOTLAR\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.cache
+C:\Users\Toshiba\Desktop\PROJELERDE KULLANILACAK NOTLAR\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\PROJELERDE KULLANILACAK NOTLAR\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.exe
+C:\Users\Toshiba\Desktop\PROJELERDE KULLANILACAK NOTLAR\C# PROJELERİ\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\Lenovo\Desktop\Resturant\Resturant\obj\Debug\Resturant.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Resturant\Resturant\obj\Debug\Resturant.Form1.resources
+C:\Users\Lenovo\Desktop\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Resturant\Resturant\obj\Debug\Resturant.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Resturant\Resturant\obj\Debug\Resturant.exe
+C:\Users\Lenovo\Desktop\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\Lenovo\Desktop\Resturant\Resturant\bin\Debug\Resturant.exe.config
+C:\Users\Lenovo\Desktop\Resturant\Resturant\bin\Debug\Resturant.exe
+C:\Users\Lenovo\Desktop\Resturant\Resturant\bin\Debug\Resturant.pdb
+C:\Users\Lenovo\Desktop\Resturant\Resturant\obj\Debug\Resturant.Form2.resources
+C:\Users\Lenovo\Desktop\Resturant\Resturant\obj\Debug\Resturant.Form3.resources
+C:\Users\Lenovo\source\repos\FULL RESTURANT PROJESİ\Resturant\Resturant\bin\Debug\Resturant.exe.config
+C:\Users\Lenovo\source\repos\FULL RESTURANT PROJESİ\Resturant\Resturant\bin\Debug\Resturant.exe
+C:\Users\Lenovo\source\repos\FULL RESTURANT PROJESİ\Resturant\Resturant\bin\Debug\Resturant.pdb
+C:\Users\Lenovo\source\repos\FULL RESTURANT PROJESİ\Resturant\Resturant\obj\Debug\Resturant.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\FULL RESTURANT PROJESİ\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\FULL RESTURANT PROJESİ\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\FULL RESTURANT PROJESİ\Resturant\Resturant\obj\Debug\Resturant.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FULL RESTURANT PROJESİ\Resturant\Resturant\obj\Debug\Resturant.exe
+C:\Users\Lenovo\source\repos\FULL RESTURANT PROJESİ\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\Lenovo\Saved Games\Documents\projeler\FULL RESTURANT PROJESİ\Resturant\Resturant\bin\Debug\Resturant.exe.config
+C:\Users\Lenovo\Saved Games\Documents\projeler\FULL RESTURANT PROJESİ\Resturant\Resturant\bin\Debug\Resturant.exe
+C:\Users\Lenovo\Saved Games\Documents\projeler\FULL RESTURANT PROJESİ\Resturant\Resturant\bin\Debug\Resturant.pdb
+C:\Users\Lenovo\Saved Games\Documents\projeler\FULL RESTURANT PROJESİ\Resturant\Resturant\obj\Debug\Resturant.MasaRaporları.resources
+C:\Users\Lenovo\Saved Games\Documents\projeler\FULL RESTURANT PROJESİ\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+C:\Users\Lenovo\Saved Games\Documents\projeler\FULL RESTURANT PROJESİ\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.cache
+C:\Users\Lenovo\Saved Games\Documents\projeler\FULL RESTURANT PROJESİ\Resturant\Resturant\obj\Debug\Resturant.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Saved Games\Documents\projeler\FULL RESTURANT PROJESİ\Resturant\Resturant\obj\Debug\Resturant.exe
+C:\Users\Lenovo\Saved Games\Documents\projeler\FULL RESTURANT PROJESİ\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\Lenovo\Saved Games\Documents\projeler\FULL RESTURANT PROJESİ\Resturant\Resturant\obj\Debug\Resturant.ResturantForm.resources
+C:\Users\Lenovo\Saved Games\Documents\projeler\FULL RESTURANT PROJESİ\Resturant\Resturant\obj\Debug\Resturant.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\FULL RESTURANT PROJESİ\Resturant\Resturant\obj\Debug\Resturant.ResturantForm.resources
+C:\Users\Lenovo\source\repos\FULL RESTURANT PROJESİ\Resturant\Resturant\obj\Debug\Resturant.MasaRaporları.resources
+C:\Users\Lenovo\Downloads\ResturantProjesi-master\ResturantProjesi-master\Resturant\Resturant\bin\Debug\Resturant.exe.config
+C:\Users\Lenovo\Downloads\ResturantProjesi-master\ResturantProjesi-master\Resturant\Resturant\bin\Debug\Resturant.exe
+C:\Users\Lenovo\Downloads\ResturantProjesi-master\ResturantProjesi-master\Resturant\Resturant\bin\Debug\Resturant.pdb
+C:\Users\Lenovo\Downloads\ResturantProjesi-master\ResturantProjesi-master\Resturant\Resturant\obj\Debug\Resturant.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\ResturantProjesi-master\ResturantProjesi-master\Resturant\Resturant\obj\Debug\Resturant.ResturantForm.resources
+C:\Users\Lenovo\Downloads\ResturantProjesi-master\ResturantProjesi-master\Resturant\Resturant\obj\Debug\Resturant.MasaRaporları.resources
+C:\Users\Lenovo\Downloads\ResturantProjesi-master\ResturantProjesi-master\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\ResturantProjesi-master\ResturantProjesi-master\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\ResturantProjesi-master\ResturantProjesi-master\Resturant\Resturant\obj\Debug\Resturant.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\ResturantProjesi-master\ResturantProjesi-master\Resturant\Resturant\obj\Debug\Resturant.exe
+C:\Users\Lenovo\Downloads\ResturantProjesi-master\ResturantProjesi-master\Resturant\Resturant\obj\Debug\Resturant.pdb
